@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6nVRFWPZbnm_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Self-Learning Opportunities V1</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Self-Learning_Opportunities_V1_ORG">
+    <organization identifier="Self-Learning_Opportunities_V1_ORG">
+      <title>Self-Learning Opportunities V1</title>
+      <item identifier="Self-Learning_Opportunities_V1_SCO" isvisible="true" identifierref="__6nVRFWPZbnm_course_id_RES">
+        <title>Self-Learning Opportunities V1</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6nVRFWPZbnm_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6OmGmTUsWmX_80_P_0_49_789_633_DX210_DY210_CX117_CY94.jpg" />
+      <file href="mobile/5bCFwve7pVu_80_P_57_0_834_683_DX192_DY192_CX115_CY94.jpg" />
+      <file href="mobile/5lgTtR0cYfg_80_P_106_0_850_683_DX188_DY188_CX117_CY94.jpg" />
+      <file href="mobile/5yZjUyJSSZ0_80_P_0_6_262_212_DX164_DY164_CX116_CY94.png" />
+      <file href="mobile/5cxRijnOF6C_X_80_P_274_0_605_507_DX264_DY264_CX112_CY94.jpg" />
+      <file href="mobile/69qxyZ2lai5_80_P_62_0_837_683_DX196_DY196_CX115_CY94.jpg" />
+      <file href="mobile/5Yo56yaM2BD_80_P_152_0_1755_430_DX2216_DY2216_CX1422_CY349.png" />
+      <file href="mobile/68VLRa1Lcka_80_DX162_DY162_CX121_CY91.png" />
+      <file href="mobile/5oELXYUe8f9_80_P_-60_189_2108_1597_DX162_DY162_CX121_CY92.jpg" />
+      <file href="mobile/68gQS80KJJt_80_P_0_0_1808_1356_DX182_DY182_CX121_CY91.jpg" />
+      <file href="mobile/6TOoBg5uTcg_80_P_50_0_645_500_DX174_DY174_CX121_CY94.jpg" />
+      <file href="mobile/6EKtFeCh12f_80_DX162_DY162_CX119_CY91.png" />
+      <file href="mobile/5emIkRbG2Nf_80_P_107_0_1739_1365_DX190_DY190_CX120_CY94.jpg" />
+      <file href="mobile/6joPimTTrAo_80_P_0_0_820_632_DX202_DY202_CX121_CY93.jpg" />
+      <file href="mobile/6XpDWpqDy7J_80_P_183_0_1195_910_DX212_DY212_CX121_CY92.png" />
+      <file href="mobile/6Favenc9s9p_80_P_180_50_843_632_DX198_DY198_CX123_CY92.jpg" />
+      <file href="mobile/5jg4buWhfbo_80_P_32_13_650_531_DX180_DY180_CX115_CY94.png" />
+      <file href="mobile/5hwUoMWhw2P_80_P_146_0_835_683_DX198_DY198_CX115_CY94.jpg" />
+      <file href="mobile/6IcJIvMiLi4_80_P_331_0_692_553_DX238_DY238_CX118_CY94.jpg" />
+      <file href="mobile/5rSDPvJHnPH_80_P_134_27_786_655_DX210_DY210_CX113_CY94.jpg" />
+      <file href="mobile/6ZOC3QA1jlE_80_P_47_0_1681_1365_DX192_DY192_CX116_CY94.jpg" />
+      <file href="mobile/64iZGqOAq5Z_80_P_867_21_1007_820_DX328_DY328_CX115_CY94.jpg" />
+      <file href="mobile/6BmErod93sx_80_P_149_0_1837_1488_DX180_DY180_CX116_CY94.jpg" />
+      <file href="mobile/68kh4JdbAvw_80_P_0_0_1691_1367_DX196_DY196_CX116_CY94.jpg" />
+      <file href="mobile/5aCVKLEh5Gu_80_P_0_0_86_82_DX150_DY150_CX86_CY83.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/6chJG6Jm9F8.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
